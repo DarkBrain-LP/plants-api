@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plants In EWE</title>
+</head>
+<body>
+    <h3>Plants</h3>
+
+    <table class="table table-dark table-striped">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Ewe Name</th>
+            <th scope="col">Scientifique Name</th>
+            <th scope="col">French Name</th>
+          </tr>
+        </thead>
+        <tbody>
+            {% for d in data %}
+            <tr>
+                <th scope="row">i</th>
+                <td>{{d.ewe_name}}</td>
+                <td>{{d.french_name}}</td>
+                <td>{{d.scientific_name}}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+      </table>
+
+
+    <a href="/add">Let me add some plants to your API</a>
+</body>
+</html>
