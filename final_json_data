@@ -1,0 +1,127 @@
+{'1' : '{"ewe_name": " AHAMÉ en Éwé ", "sci_name": " *BASILIC OCYNIUM ou OCYNIUM BASILIUM ;*"}',
+'2' : '
+{"ewe_name": " ÉSSROU/ZOGBETI", "sci_name": " *OCCIMUM GRATISSIMUM ;*"}',
+'3' : '
+{"ewe_name": " ATAKOU/VEVÉ", "french_name": " (Piment de Guinée), sc.", "sci_name": " *AFFROMUM MELEGUETA ;*"}',
+'4' : '
+{"ewe_name": " KASOIL en Éwé", "sci_name": " *RICINUS COMMUNIS* !"}',
+'5' : '
+{"ewe_name": " KAKLĒ/ ANYENYRA ", "sci_name": " *MOMORDICA CHARANTIA* !"}',
+'6' : '
+{"ewe_name": " ATSITSODOKUI (Bâtonnets)", "sci_name": " *CHASSALIA KOLLY*"}',
+'7' : '
+{"ewe_name": " WANGASHGBE ", "french_name": " (Pommier de Sodome)", "sci_name": " sc. *CALOTROPIS PROCERA*"}',
+'8' : '
+{"ewe_name": " FLANTOGAN ", "sci_name": " *KALANCHOE INTÉGRA*"}',
+'9' : '
+{"ewe_name": " AWOKÈ", "sci_name": " *PINNATA KALANCHOE*"}',
+'10' : '
+{"ewe_name": " ALOMA/ GBOTI ", "sci_name": " *VERNONIA AMYGDALINA*"}',
+'11' : '
+{"ewe_name": " MAHOGĒN ", "sci_name": " *KHAYA SENEGALENSIS*"}',
+'12' : '
+{"ewe_name": " ATINKALI/ LINLINKOU ", "sci_name": " *POIVRE NOIR/ POIVRE AFRICAIN* ;"}',
+'13' : '
+{"ewe_name": " DOTÉ ", "sci_name": " *GINGEMBRE* ;"}',
+'14' : '
+{"ewe_name": " BABATIDJIN/ BANATIDZÈ ", "sci_name": " *JATROPHA ROUGE*"}',
+'15' : '
+{"ewe_name": " KOKLOTAHÉ", "sci_name": " *HELIOTROPIUM INDICUM*"}',
+'16' : '
+{"ewe_name": " EWA", "sci_name": " *NÉRÉ*"}',
+'17' : '
+{"ewe_name": " KPATIMA ", "sci_name": " *HYSOPE*"}',
+'18' : '
+{"ewe_name": " DEAMELEATSUNGOE ", "sci_name": " *ACATHOSPERMUM HISPIDUM*"}',
+'19' : '
+{"ewe_name": " PEYATI ", "french_name": "(AVOCATIER) SC.", "sci_name": " *PERSEA AMERICANA*"}',
+'20' : '
+{"ewe_name": " AGUWATI/ GBÈBÈTI ", "french_name": "(GOYAVIER) SC.", "sci_name": " *PSIDIUM GUAJAVA*"}',
+'21' : '
+{"ewe_name": " DONTITSI ", "french_name": " (CITRONNIER) SC.", "sci_name": " *CITRUS LATIFOLIA*"}',
+'22' : '
+{"ewe_name": "ÉVO ", "french_name": "(COROSSOL)", "sci_name": " *ANNONA MURICATA*"}',
+'23' : '
+{"ewe_name": "ÉHLIVI", "sci_name": " *PHYLLANTHUS*"}',
+'24' : '
+{"ewe_name": " AVAKOLIFA", "sci_name": " *KINKELIBA*."}',
+'25' : '
+{"ewe_name": "BAOBAB", "sci_name": " *ADANSONIA DIGITATA*"}',
+'26' : '
+{"ewe_name": " AIL ", "sci_name": " *ALLIUM SALIVUM*"}',
+'27' : '
+{"ewe_name": " ALOÈS VERA ", "sci_name": " *ALOE VULGARIS*"}',
+'28' : '
+{"ewe_name": " CÉLERI ", "sci_name": " *APIUM GRAVEOLEN*"}',
+'29' : '
+{"ewe_name": " NIM, NEEM, MARGOUSIER ", "sci_name": " *AZADIRACHTA INDICA*"}',
+'30' : '
+{"ewe_name": " CHOU VERT, BLANC ", "sci_name": " *BRASSICA OLERACEA*"}',
+'31' : '
+{"ewe_name": " KARITÉ ", "sci_name": " *BUTYROSPERMUM PARKII*"}',
+'32' : '
+{"ewe_name": " POIS D’ANGOL ", "sci_name": " *CAJANUS CAJAN*"}',
+'33' : '
+{"ewe_name": " THÉ VERT ", "sci_name": " *CAMELLIA SINENSIS*"}',
+'34' : '
+{"ewe_name": " PIMENT DE CAYENNE ", "sci_name": " *CAPSICUM FRUTESCEN*"}',
+'35' : '
+{"ewe_name": " PAPAYER ", "sci_name": " *CARICAPAPAYA*"}',
+'36' : '
+{"ewe_name": " DARTIER (ZOGBALÈ) ", "sci_name": " *CASSIA ALATA*"}',
+'37' : '
+{"ewe_name": " PERVENCHE DE MADAGASCAR ", "sci_name": " *CATHARANTHUS ROSUS*"}',
+'38' : '
+{"ewe_name": " FAUX KINKELIBA (AVAKOLIFA) ", "sci_name": " *CASSIA OCCIDENTALIS*"}',
+'39' : '
+{"ewe_name": " FLEUR DE CHANCE ", "sci_name": " *CENTELLA ASIATICA*"}',
+'40' : '
+{"ewe_name": " CITONNIER (DONTITI) ", "sci_name": " *CITRUS LIMON*"}',
+'41' : '
+{"ewe_name": " KOLA (BISI, GORO) ", "sci_name": " *COLA NITIDA*"}',
+'42' : '
+{"ewe_name": " CURCUMA (DOTÈDZIN) ", "sci_name": " *CURCUMA LONGA*"}',
+'43' : '
+{"ewe_name": " CITRONELLE (TIGBE) ", "sci_name": " *CYMBOPOGON CITRATUS*"}',
+'44' : '
+{"ewe_name": " PRUNE NOIR (ÉFON, ÉFONYI) ", "sci_name": " *VITE X AGNUSCASTUS*"}',
+'45' : '
+{"ewe_name": " CLOU DE GIROFLE (PRINGOTA) ", "sci_name": " *EUGENIA CARYPHYLLATA*"}',
+'46' : '
+{"ewe_name": "MALNOMMÉE (NOSSIKA)", "sci_name": " *EUPHORBIA HIRTA*"}',
+'47' : '
+{"ewe_name": " GRIFFONIA (GBOGBTROLOE) ", "sci_name": " *GRIFFONIA SIMPLICIFOLIA*"}',
+'48' : '
+{"ewe_name": " PINNATA (AWOEKÈ) ", "sci_name": " *KALANCHOE PINNATA*"}',
+'49' : '
+{"ewe_name": " SAUCISSONIER (NYAKPEKPE, VINOR) ", "sci_name": " *KIGELIA AFRICANA*"}',
+'50' : '
+{"ewe_name": " ÉPONGE VÉGÉTALE (AZIAKUTSA) ", "sci_name": " *LUFFA AEGYPTIACA*"}',
+'51' : '
+{"ewe_name": " MANGUIER (MANGOTI) ", "sci_name": " *MANGIFERA INDICA*"}',
+'52' : '
+{"ewe_name": " MENTHE ", "sci_name": " *MENTHA X PIPERITA*"}',
+'53' : '
+{"ewe_name": " MAÏS ", "sci_name": " *ZEA MAYS*"}',
+'54' : '
+{"ewe_name": " GINGEMBRE (DOTÈ) ", "sci_name": " *GINGIBER OFFICINALE*"}',
+'55' : '
+{"ewe_name": " HYSOPE (KPOTIMA, AVIANT) ", "sci_name": " *ANTHOCLEISTA VOGELII*"}',
+'56' : '
+{"ewe_name": " DODÉKEMAKPOWOE ", "sci_name": " *RAUVOLFIA VOMITORIA*"}',
+'57' : '
+{"ewe_name": " NYIMONKE ", "sci_name": " *LAUCLEA LATIFOLIA*"}',
+'58' : '
+{"ewe_name": " AMADZIN ", "sci_name": " *AMARANTHUS GRAECIZAN*"}',
+'59' : '
+{"ewe_name": " AFLATOVI ", "sci_name": " *PORTULACA OLERACEA*"}',
+'60' : '
+{"ewe_name": " CANNELLE (ANYIGLI) ", "sci_name": " *CINNAMOMUM AROMATIMUM*"}',
+'61' : '
+{"ewe_name": " JUJUBE (AKLIKON) ", "sci_name": " * PRUNIER MOMBIN*"}',
+'62' : '
+{"ewe_name": " BAMBOU ", "sci_name": " * *PHYLLOSTACHYS AUREA*"}',
+'63' : '
+{"ewe_name": " ÉHLIVI ", "sci_name": " *PHYLLANTHUS*"}',
+'64' : '
+}
